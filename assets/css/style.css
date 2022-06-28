@@ -164,7 +164,7 @@ ul{
     max-width: 100%;
 }
 .hero_image{
-     background-image: url(./assets/images/Picsart_22-06-27_01-55-58-587.jpg);
+     background-image: url(/assets/images/Picsart_22-06-27_01-55-58-587.jpg);
     -webkit-background-size: cover;
     background-size: cover;
     background-color: rgba(0, 0, 0, 0.5);
